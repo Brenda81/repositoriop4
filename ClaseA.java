@@ -8,4 +8,9 @@ public class ClaseA{
   
  
  }
+ 
+ public void mesaje(){
+  System.out.println("hola")
+ }
+ 
  }
